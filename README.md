@@ -15,4 +15,4 @@ npm run dev
 install npm
 ```
 
-abrir o projeto em: [http://localhost:3000](http://localhost:3000):
+abrir o projeto em: [http://localhost:3000](http://localhost:3000)
