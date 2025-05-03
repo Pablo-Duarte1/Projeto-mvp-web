@@ -10,4 +10,9 @@ cd .\Projeto-mvp-web\
 npm run dev
 ```
 
+## Se der erro ao tentar executar o projeto, lembre-se de instalar o npm
+```bash
+install npm
+```
+
 abrir o projeto em: [http://localhost:3000](http://localhost:3000):
